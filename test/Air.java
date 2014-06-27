@@ -1,8 +1,9 @@
-package com.yy.environmentalprotection.data.bean;
+﻿package com.yy.environmentalprotection.data.bean;
 
 import java.io.Serializable;
 
 public class Air implements Serializable {
+	//test
 	private String datatime;//监测时间
 	private String pointname;//监测点
 	private String aqi;//AQI
